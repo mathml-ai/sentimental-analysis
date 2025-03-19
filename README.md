@@ -14,7 +14,7 @@ This project performs sentiment analysis on tweets using **GloVe word embeddings
 ---
 
 ## 📂 Dataset  
-- The dataset consists of tweets labeled as **positive (4), neutral (2), or negative (0)**.  
+- The dataset consists of tweets labeled as ** extremely positive (4),positive(3),neutral (0), negatiave(1), extremely negative (2)**.  
 - Preprocessing steps include:  
   - Removing stopwords and special characters.  
   - Tokenizing and padding sequences.  
